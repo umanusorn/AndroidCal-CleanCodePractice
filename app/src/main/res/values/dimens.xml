@@ -7,5 +7,5 @@
 
 
     <!-- size of plus shows between 2 edittext -->
-    <dimen name="textSize">50dp</dimen>
+    <dimen name="textSize">30dp</dimen>
 </resources>
